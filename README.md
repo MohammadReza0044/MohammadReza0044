@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there👋
+this is Mohammad Reza Shaygan
+I am  junior Django developer who is keen to learn so much in this field. 
 
-<!--
-**MohammadReza0044/MohammadReza0044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working as a freelancer on a project.
+- I'm looking for a possition to be at a perfect team to collaborate with , learn more and update my knowledge.
 
-Here are some ideas to get you started:
+**my skils:**
+•	Python 
+•	Django
+•	Django Rest Framework
+•	Rest API
+•	Unit Test
+•	SQL / MySQL / PostgreSQL
+•	XAMPP
+•	ORM
+•	Postman
+•	Git , GitHub
+•	JavaScript
+•	HTML, CSS
+•	Bootstrap
+------------------------------------------
+**Familiar with:**
+•	Docker
+•	Celery / Redis 
+•	HTTP Protocols 
+•	Design Patterns 
+•	MVT pattern 
+•	Agile / Scrum
+•	OOP
+•	Clean Code
+•	SOLID Principles 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
