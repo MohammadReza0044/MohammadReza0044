@@ -6,7 +6,7 @@ I am  junior Django developer who is keen to learn so much in this field.
 - I’m currently working as a freelancer on a project.
 - I'm looking for a possition to be at a perfect team to collaborate with , learn more and update my knowledge.
 
-**my skils:**
+**my skils:** <br>
 •	Python <br>
 •	Django<br>
 •	Django Rest Framework<br>
@@ -21,7 +21,7 @@ I am  junior Django developer who is keen to learn so much in this field.
 •	HTML, CSS<br>
 •	Bootstrap<br>
 ------------------------------------------
-**Familiar with:**
+**Familiar with:** <br>
 •	Docker<br>
 •	Celery / Redis <br>
 •	HTTP Protocols <br>
