@@ -24,11 +24,12 @@ this is Mohammad Reza Shaygan. A junior Django developer who is keen to learn so
 •	Celery / Redis <br>
 •	HTTP Protocols <br>
 •	Design Patterns <br>
+•	Design Principles <br>
 •	MVT pattern <br>
 •	Agile / Scrum<br>
 •	OOP<br>
 •	Clean Code<br>
-•	SOLID Principles <br>
+
 
 
 
