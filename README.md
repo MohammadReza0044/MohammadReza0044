@@ -1,7 +1,7 @@
 ### Hi there👋
 this is Mohammad Reza Shaygan. A junior Django developer who is keen to learn so much in this field. 
 
-- I’m currently working  on Radin project with django rest framework.
+- I’m currently working  on a project with django rest framework.
 - I'm looking for a possition to be at a perfect team to collaborate with , learn more and update my knowledge.
 
 **my skils:** <br>
